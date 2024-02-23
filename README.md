@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HollyGaudian
 - 👀 I’m interested in developing my R writing skills. 
-- 🌱 I’m currently learning to use Quarto and applying it to fisheries stock assessment data. 
+- 🌱 I’m currently learning to use Quarto and shinyapp and applying it to fisheries stock assessment data. 
 - 📫 How to reach me: h.gaudian97@gmail.com
 
 <!---
